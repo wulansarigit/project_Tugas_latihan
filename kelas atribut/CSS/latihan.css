@@ -1,0 +1,30 @@
+li {
+    color: purple;
+}
+
+h1, h2 {
+    color: blue;
+}
+#submit {
+    background-color: green;
+}
+#flavors span {
+    color: red;
+}
+
+.size {
+    font-size: 15px;
+    color: magenta;
+}
+a[href="http://developer.mozilla.org"] {
+    color: magenta;
+}
+
+
+a[href="http://www.wikipedia.org"] {
+    color: magenta;
+}
+
+h2.bright {
+    color: cyan;
+}
